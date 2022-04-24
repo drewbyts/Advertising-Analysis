@@ -1,4 +1,4 @@
-# Social Campaign Analysis (Youtube Content)
+# Social Campaign Analysis 📱 (Youtube Content)
 
 # Goal 
 The primary goal was to identify the social media campaign that effectively converted the most customers. The seconadry goal was to measure the performance of ads and campaigns. 
